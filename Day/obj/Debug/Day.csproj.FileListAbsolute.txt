@@ -1,0 +1,7 @@
+C:\Users\Martin\source\repos\AdventOfCoding\Day\bin\Debug\Day.exe.config
+C:\Users\Martin\source\repos\AdventOfCoding\Day\bin\Debug\Day.exe
+C:\Users\Martin\source\repos\AdventOfCoding\Day\bin\Debug\Day.pdb
+C:\Users\Martin\source\repos\AdventOfCoding\Day\obj\Debug\Day.csprojResolveAssemblyReference.cache
+C:\Users\Martin\source\repos\AdventOfCoding\Day\obj\Debug\Day.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\AdventOfCoding\Day\obj\Debug\Day.exe
+C:\Users\Martin\source\repos\AdventOfCoding\Day\obj\Debug\Day.pdb
